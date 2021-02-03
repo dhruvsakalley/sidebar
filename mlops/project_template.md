@@ -1,4 +1,4 @@
-# ML Systems Thinking.
+# ML Systems Design Thinking
 
 ML practices come from the team, each team operates at a different capacity, skill and timeline. While some might want it to be lightweight, while others would like to put practices before delivery. 
 My personal style goes something along these lines… Be lazy, be smart, be kind. I’ll probably not overthink the processes and start by clearly documenting the basics. Which according to me are:
